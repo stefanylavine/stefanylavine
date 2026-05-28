@@ -1,16 +1,17 @@
-## Hi there 👋
+# ✨ Olá, eu sou Stefany Lavine!
 
-<!--
-**stefanylavine/stefanylavine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 15 anos. 🚀
 
-Here are some ideas to get you started:
+## 💡 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 Sempre buscando aprender mais
+* 💬 Gosto de conversar e trocar ideias
+* 🌟 Curiosa e criativa
+
+## 🌸 Frase que eu gosto
+
+> “O futuro pertence àqueles que acreditam na beleza dos seus sonhos.” — Eleanor Roosevelt
+
+---
+
+✨ Obrigada por visitar meu perfil!
